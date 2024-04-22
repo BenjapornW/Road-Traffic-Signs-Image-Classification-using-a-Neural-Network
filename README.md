@@ -3,7 +3,7 @@ Group 9
 - s3961136 Benjaporn Wongmayura
 - s3959666 Xiaohan Qin
 
-# 🚸 Road Traffic Signs Image Classification
+# 🚸 Road Traffic Signs Image Classification using a Neural Network
 
 ## 🔗 Table of Contents
 1. [About the Project](#about-the-project)

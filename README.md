@@ -37,8 +37,12 @@ This project focuses on classifying road traffic signs to enhance navigation sys
 
 ## 🚀 Key Steps
 1. **Dataset**: Belgium Traffic Sign Benchmark, categorized into 5 shapes and 16 types.
-
+- Display sample images from each class
 ![Sample Data](img/sample_data.png)
+
+- Distribution of the data
+![Dataset Distribution](img/distribution%20of%20the%20data%20set.png)
+
 
 2. **Exploratory Data Analysis (EDA):**
    - Observed class imbalances.

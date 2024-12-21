@@ -49,6 +49,7 @@ This project focuses on classifying road traffic signs to enhance navigation sys
    - Addressed using **SMOTE** for data augmentation.
 3. **Model Development:**
    - **MLP Models**: Baseline models for quick, foundational insights.
+     - ![Baseline_Model](img/baseline_model.png)
    - **CNNs**: Improved classification using spatial information and hierarchical feature extraction.
    - **VGG Networks**: Deep CNNs providing superior accuracy, incorporating techniques like **Batch Normalization**, **Dropout**, and **hyperparameter tuning**.
 
